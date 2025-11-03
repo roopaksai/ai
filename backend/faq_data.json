@@ -1,0 +1,88 @@
+{
+  "faqs": [
+    {
+      "category": "courses",
+      "questions": [
+        "What are the credit requirements for graduation",
+        "How many credits do I need to complete",
+        "Tell me about graduation credits"
+      ],
+      "answer": {
+        "en": "A total of 160 credits are required for graduation. This includes 120 core credits and 40 elective credits spread across 8 semesters.",
+        "hi": "स्नातक के लिए कुल 160 क्रेडिट आवश्यक हैं। इसमें 8 सेमेस्टर में फैले 120 कोर क्रेडिट और 40 वैकल्पिक क्रेडिट शामिल हैं।",
+        "te": "గ్రాడ్యుయేషన్ కోసం మొత్తం 160 క్రెడిట్లు అవసరం. ఇందులో 8 సెమిస్టర్లలో 120 కోర్ క్రెడిట్లు మరియు 40 ఐచ్ఛిక క్రెడిట్లు ఉన్నాయి.",
+        "kn": "ಪದವಿಗೆ ಒಟ್ಟು 160 ಕ್ರೆಡಿಟ್‌ಗಳು ಅಗತ್ಯವಿದೆ. ಇದರಲ್ಲಿ 8 ಸೆಮಿಸ್ಟರ್‌ಗಳಲ್ಲಿ 120 ಕೋರ್ ಕ್ರೆಡಿಟ್‌ಗಳು ಮತ್ತು 40 ಐಚ್ಛಿಕ ಕ್ರೆಡಿಟ್‌ಗಳು ಒಳಗೊಂಡಿವೆ."
+      }
+    },
+    {
+      "category": "exams",
+      "questions": [
+        "When are the final exams",
+        "What is the exam schedule",
+        "Tell me exam dates"
+      ],
+      "answer": {
+        "en": "Final exams for this semester are scheduled from December 10th to December 22nd, 2025. The detailed schedule is available on the department notice board.",
+        "hi": "इस सेमेस्टर की अंतिम परीक्षाएं 10 दिसंबर से 22 दिसंबर, 2025 तक निर्धारित हैं। विस्तृत कार्यक्रम विभाग के नोटिस बोर्ड पर उपलब्ध है।",
+        "te": "ఈ సెమిస్టర్ ఫైనల్ పరీక్షలు డిసెంబర్ 10 నుండి డిసెంబర్ 22, 2025 వరకు షెడ్యూల్ చేయబడ్డాయి. వివరణాత్మక షెడ్యూల్ డిపార్ట్‌మెంట్ నోటీస్ బోర్డులో అందుబాటులో ఉంది.",
+        "kn": "ಈ ಸೆಮಿಸ್ಟರ್‌ನ ಅಂತಿಮ ಪರೀಕ್ಷೆಗಳು ಡಿಸೆಂಬರ್ 10 ರಿಂದ ಡಿಸೆಂಬರ್ 22, 2025 ರವರೆಗೆ ನಿಗದಿಯಾಗಿವೆ. ವಿವರವಾದ ವೇಳಾಪಟ್ಟಿ ವಿಭಾಗದ ಸೂಚನಾ ಫಲಕದಲ್ಲಿ ಲಭ್ಯವಿದೆ."
+      }
+    },
+    {
+      "category": "faculty",
+      "questions": [
+        "Who is the HOD of Computer Science",
+        "Tell me about CS department head",
+        "CS HOD details"
+      ],
+      "answer": {
+        "en": "Dr. Rajesh Kumar is the current Head of Department for Computer Science. Office hours: Mon-Fri, 2-4 PM. Email: hod.cse@campus.edu",
+        "hi": "डॉ. राजेश कुमार कंप्यूटर साइंस के वर्तमान विभागाध्यक्ष हैं। कार्यालय समय: सोम-शुक्र, 2-4 बजे। ईमेल: hod.cse@campus.edu",
+        "te": "డా. రాజేష్ కుమార్ ప్రస్తుత కంప్యూటర్ సైన్స్ విభాగాధిపతి. కార్యాలয సమయం: సోమ-శుక్ర, 2-4 PM. ఇమెయిల్: hod.cse@campus.edu",
+        "kn": "ಡಾ. ರಾಜೇಶ್ ಕುಮಾರ್ ಪ್ರಸ್ತುತ ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್ ವಿಭಾಗದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದಾರೆ. ಕಛೇರಿ ಸಮಯ: ಸೋಮ-ಶುಕ್ರ, 2-4 PM. ಇಮೇಲ್: hod.cse@campus.edu"
+      }
+    },
+    {
+      "category": "results",
+      "questions": [
+        "How can I check my results",
+        "Where to see semester results",
+        "Result checking process"
+      ],
+      "answer": {
+        "en": "Results can be checked on the student portal using your roll number and DOB. Results are typically announced within 3 weeks after exams.",
+        "hi": "परिणाम छात्र पोर्टल पर अपना रोल नंबर और जन्मतिथि का उपयोग करके देखे जा सकते हैं। परिणाम आमतौर पर परीक्षाओं के 3 सप्ताह के भीतर घोषित किए जाते हैं।",
+        "te": "విద్యార్థి పోర్టల్‌లో మీ రోల్ నంబర్ మరియు పుట్టిన తేదీని ఉపయోగించి ఫలితాలను తనిఖీ చేయవచ్చు. ఫలితాలు సాధారణంగా పరీక్షల తర్వాత 3 వారాల్లో ప్రకటించబడతాయి.",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನಿಮ್ಮ ರೋಲ್ ಸಂಖ್ಯೆ ಮತ್ತು ಜನ್ಮ ದಿನಾಂಕವನ್ನು ಬಳಸಿ ಫಲಿತಾಂಶಗಳನ್ನು ಪರಿಶೀಲಿಸಬಹುದು. ಫಲಿತಾಂಶಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಪರೀಕ್ಷೆಗಳ ನಂತರ 3 ವಾರಗಳಲ್ಲಿ ಘೋಷಿಸಲಾಗುತ್ತದೆ."
+      }
+    },
+    {
+      "category": "contact",
+      "questions": [
+        "Department office contact number",
+        "How to contact department",
+        "Department phone number"
+      ],
+      "answer": {
+        "en": "Main office: +91-80-2345-6789 (9 AM - 5 PM). Email: info@campus.edu. Location: Ground Floor, Admin Block.",
+        "hi": "मुख्य कार्यालय: +91-80-2345-6789 (सुबह 9 - शाम 5). ईमेल: info@campus.edu. स्थान: भूतल, प्रशासन खंड।",
+        "te": "ప్రధాన కార్యాలయం: +91-80-2345-6789 (ఉ. 9 - సా. 5). ఇమెయిల్: info@campus.edu. స్థానం: గ్రౌండ్ ఫ్లోర్, అడ్మిన్ బ్లాక్.",
+        "kn": "ಮುಖ್ಯ ಕಛೇರಿ: +91-80-2345-6789 (ಬೆಳಗ್ಗೆ 9 - ಸಂಜೆ 5). ಇಮೇಲ್: info@campus.edu. ಸ್ಥಳ: ನೆಲ ಮಹಡಿ, ಆಡಳಿತ ಬ್ಲಾಕ್."
+      }
+    },
+    {
+      "category": "labs",
+      "questions": [
+        "What is the lab timing",
+        "When are labs open",
+        "Laboratory schedule"
+      ],
+      "answer": {
+        "en": "Computer labs are open Monday to Friday, 8:30 AM to 6:00 PM. Special labs may require advance booking through department coordinators.",
+        "hi": "कंप्यूटर लैब सोमवार से शुक्रवार, सुबह 8:30 से शाम 6:00 बजे तक खुली हैं। विशेष लैब के लिए विभाग समन्वयकों के माध्यम से अग्रिम बुकिंग की आवश्यकता हो सकती है।",
+        "te": "కంప్యూటర్ ల్యాబ్‌లు సోమవారం నుండి శుక్రవారం వరకు, ఉ. 8:30 నుండి సా. 6:00 వరకు తెరిచి ఉంటాయి. ప్రత్యేక ల్యాబ్‌లకు విభాగ సమన్వయకర్తల ద్వారా ముందస్తు బుకింగ్ అవసరం కావచ్చు.",
+        "kn": "ಕಂಪ್ಯೂಟರ್ ಪ್ರಯೋಗಾಲಯಗಳು ಸೋಮವಾರದಿಂದ ಶುಕ್ರವಾರದವರೆಗೆ, ಬೆಳಗ್ಗೆ 8:30 ರಿಂದ ಸಂಜೆ 6:00 ರವರೆಗೆ ತೆರೆದಿರುತ್ತವೆ. ವಿಶೇಷ ಪ್ರಯೋಗಾಲಯಗಳಿಗೆ ವಿಭಾಗದ ಸಮನ್ವಯಾಧಿಕಾರಿಗಳ ಮೂಲಕ ಮುಂಗಡ ಬುಕ್ಕಿಂಗ್ ಅಗತ್ಯವಿರಬಹುದು."
+      }
+    }
+  ]
+}
